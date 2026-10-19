@@ -1,0 +1,131 @@
+ *{
+    box-sizing: border-box;
+ }
+ 
+ 
+ 
+ .countenr {
+
+     margin: 30px auto;
+     width: 80%;
+
+ }
+
+.clear-fix {
+     clear: both;
+ }
+
+
+ .text-center{
+    text-align: center;
+ }
+
+.bg-red{
+    background-color: white;
+}
+
+
+
+ .bg-blue {
+     background-color: rgb(26, 26, 121);
+    
+ }
+
+ .c-white {
+     color: aliceblue;
+ }
+
+ .border-r {
+     border-radius: 20px 20px;
+ }
+
+ .c-blue {
+     color: blue;
+
+ }
+
+ .bg-white {
+     background-color: white;
+ }
+
+.about img  {
+    width: 10%;
+     border-radius: 50%;
+
+
+ }
+ .w-30{
+    width: 30%;
+ }
+
+
+
+ .floating {
+     float: left;
+ }
+
+ 
+
+ .bg-body {
+     background-color: rgb(206, 219, 247);
+ }
+
+ .bg-wblue{
+    background-color: rgb(216, 216, 239);
+ }
+ 
+
+ .card {
+     width: 23%;
+     float: left;
+    margin-inline: 10px;
+     border-radius: 20px;
+     background-color: rgb(244, 237, 237);
+ }
+
+
+
+
+
+.padding-about{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+.padding-rl{
+    padding-left: 20px;
+}
+.margin-ri{
+margin-right: 20px;
+}
+
+
+.margin-lift{
+    margin-left: 20px ;
+}
+
+.card1 img ,.card2 img{
+    border-radius: 20px;
+    width: 10%;
+}
+button{
+    background-color: rgb(45, 45, 174);
+    color: white;
+    border-radius: 5px;
+    margin-inline: 5px;
+    border: 0px;
+    padding-block: 5px;
+}
+.l-padding{
+    padding-left: 15px;
+}
+
+
+h2 ,h4{
+    color: blue;
+}
+
+.content h2{
+    color: white;
+}
